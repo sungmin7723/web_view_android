@@ -2,11 +2,18 @@
 
 플러터를 이용한 모죽 웹사이트 웹 뷰 어플리케이션 만들기
 
-## Getting Started
+## 개발 환경 구축
 
-This project is a starting point for a Flutter application.
+fullter version : 3.32.1
+Android Studio version : 17.0.11+0--11852314 amd64
 
-A few resources to get you started if this is your first Flutter project:
+## 웹 뷰 기능
+
+
+
+
+
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)

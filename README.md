@@ -12,7 +12,7 @@ Flutter를 사용한 모죽 동아리 홈페이지의, 크로스 플랫폼 웹 �
 
 ## 개발 환경 구축
 
-fullter version : 3.32.1
+flutter version : 3.32.1
 
 Android Studio version : 17.0.11+0--11852314 amd64
 

@@ -1,6 +1,6 @@
 # web_view
 
-A new Flutter project.
+플러터를 이용한 모죽 웹사이트 웹 뷰 어플리케이션 만들기
 
 ## Getting Started
 
